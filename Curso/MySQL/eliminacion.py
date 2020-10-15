@@ -13,10 +13,9 @@ try:
     if conexion.is_connected():
         print("Conexión exitosa.")
         cursor = conexion.cursor()
-        cursor.execute("""UPDATE tipousuario SET nombre = 'Huesped', 
-                       vigencia = 0 WHERE Codigo = 8""")
+        cursor.execute("DELETE FROM tipousuario WHERE codigo = 8")
         conexion.commit()  # Confirmar la acción que estamos ejecutando.
-        print("Registro actualizado con éxito.")
+        print("Registro eliminado con éxito.")
 except Error as ex:
     print("Error durante la conexión:", ex)
 finally:
