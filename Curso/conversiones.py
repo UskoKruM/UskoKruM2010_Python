@@ -16,3 +16,6 @@ print(valorDecimal * 3)
 
 edad = 100
 print(len(str(edad)))
+
+for i in range(5):
+    print((i + 1) * "* ")

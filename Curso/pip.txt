@@ -1,0 +1,15 @@
+PIP (Package Installer for Python)
+
+Actualizar pip => python -m pip install --upgrade pip
+
+Listar los paquetes instalados => pip list
+
+Lista los paquetes no actualizados => pip list --outdated
+
+Muestra ayuda para un comando en particular => pip help install
+
+Mostrar detalles sobre un paquete => pip show Django
+
+Para exportar los paquetes que estamos usando => pip freeze>requirements.txt
+
+Para instalar los paquetes indicados => pip install -r requirements.txt (Instalación desde un archivo)

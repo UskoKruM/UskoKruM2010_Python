@@ -8,9 +8,9 @@ Para organizar mejor el código y poder reutilizarlo mejor.
 Modularización y reutilización.
 """
 
-# import funcionesMatematicas
+# import funciones_matematicas
 
-from Curso.modulos.funcionesMatematicas import *
+from Curso.modulos.funciones_matematicas import *
 
 print(sumar(5, 6))
 print(multiplicar(5, 6))

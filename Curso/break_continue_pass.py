@@ -22,7 +22,7 @@ print("Bucle terminado.")
 """
 
 # Pass: Permite continuar con una sentencia o función que ya no tiene
-# o agún no tiene un bloque de código útil.
+# o aún no tiene un bloque de código útil.
 
 for numero in range(1, 6):
     if numero <= 3:

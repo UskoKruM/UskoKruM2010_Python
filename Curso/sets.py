@@ -1,4 +1,4 @@
-# Sets: son colleciones desordenadas de objetos únicos.
+# Sets: son colecciones desordenadas de objetos únicos.
 
 """
 canasta = {'manzana', 'platano', 'pera', 'manzana', 'naranja', 'pera'}

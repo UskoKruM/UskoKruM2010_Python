@@ -9,7 +9,7 @@ class Cuenta():
     def get_Saldo(self):
         return self.__saldo
 
-    def get_Propieatario(self):
+    def get_Propietario(self):
         return self.__propietario
 
     def get_Moneda(self):
