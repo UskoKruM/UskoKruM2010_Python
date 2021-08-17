@@ -3,7 +3,7 @@ Curso de Python desde 0, creado en YouTube, en el canal:
 <br/><br/>
 [![YouTube](https://img.shields.io/badge/YouTube-UskoKruM2010-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/uskokrum2010)
 
-## Todos los videos del curso: [Aquí](https://www.youtube.com/playlist?list=PL_wRgp7nihybbJ2vZaVGI5TDdPaK_dFuC)
+## ▶ Todos los videos del curso: [Aquí](https://www.youtube.com/playlist?list=PL_wRgp7nihybbJ2vZaVGI5TDdPaK_dFuC)
 
 <br/>
 
@@ -13,7 +13,7 @@ Curso de Python desde 0, creado en YouTube, en el canal:
 <br/><br/>
 ![](./preview3.png)
 
-# Por si deseas contactarme :
+# 🌍 Por si deseas contactarme 👨‍💻 :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Oscar_Garcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://pe.linkedin.com/in/uskokrum2010)
 [![YouTube](https://img.shields.io/badge/YouTube-UskoKruM2010-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/uskokrum2010)
