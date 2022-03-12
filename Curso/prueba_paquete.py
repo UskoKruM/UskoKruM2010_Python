@@ -8,7 +8,7 @@ Para organizar mejor el código y poder reutilizarlo mejor (modularización y re
 ¿Cómo se crea un paquete?
 Crear una carpeta o directorio con un archivo dentro llamado __init__.py
 
-Lo que hace __init__.py es "convertir" un directorio en un modulo (paquete)
+Lo que hace __init__.py es "convertir" un directorio en un módulo (paquete)
 que contiene otros módulos, y esto lo hace para poder importarlos.
 """
 
