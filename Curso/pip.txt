@@ -10,6 +10,6 @@ Muestra ayuda para un comando en particular => pip help install
 
 Mostrar detalles sobre un paquete => pip show Django
 
-Para exportar los paquetes que estamos usando => pip freeze>requirements.txt
+Para exportar los paquetes que estamos usando => pip freeze > requirements.txt
 
 Para instalar los paquetes indicados => pip install -r requirements.txt (Instalación desde un archivo)
